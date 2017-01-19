@@ -1,0 +1,37 @@
+/* Copyright (c) 2016 getPiMP.org */
+
+@font-face {
+    font-family: 'interstate-boldcondensedRg';
+    src: url('intbdcn_-webfont.eot');
+    src: url('intbdcn_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('intbdcn_-webfont.woff') format('woff'),
+         url('intbdcn_-webfont.ttf') format('truetype'),
+         url('intbdcn_-webfont.svg#interstate-boldcondensedRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'interstate-lightcompressedRg';
+    src: url('intltcm_-webfont.eot');
+    src: url('intltcm_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('intltcm_-webfont.woff') format('woff'),
+         url('intltcm_-webfont.ttf') format('truetype'),
+         url('intltcm_-webfont.svg#interstate-lightcompressedRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'interstate-lightregular';
+    src: url('intlt___-webfont.eot');
+    src: url('intlt___-webfont.eot?#iefix') format('embedded-opentype'),
+         url('intlt___-webfont.woff') format('woff'),
+         url('intlt___-webfont.ttf') format('truetype'),
+         url('intlt___-webfont.svg#interstate-lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
